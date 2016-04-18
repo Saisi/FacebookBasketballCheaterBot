@@ -6,7 +6,6 @@
 #1440x900
 from pyscreenshot import grab
 from PIL import Image
-from pytesseract import image_to_string
 from time import sleep
 from os import system
 from random import randint
