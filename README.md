@@ -36,6 +36,7 @@ Setup
 > - Why are there two files instead of one. Well, thanks to Apple's magnanimity if you import both *Quartz* and *pyscreenshot* in one script, you get a nice segfault. Thanks Apple. Ace work.
 > - The bot automatically restarts a new game. It is currently set to play a million games in a row.
 > - Cleaning up and comments are on my TODO list. Should mostly be self explanatory though
+> - Video at https://youtu.be/MPz2SgTdGWo
 
 
 <img src="https://raw.githubusercontent.com/Saisi/FacebookBasketballCheaterBot/master/media/game.gif" width="400">
