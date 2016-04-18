@@ -20,7 +20,7 @@ Setup
 -------------
 1. Load Bluestacks App Player
 2. Open messenger and open the Basketball game screen
-<img src="https://raw.githubusercontent.com/Saisi/FacebookBasketballCheaterBot/master/media/gamescreen.png" width="400">
+<img src="https://raw.githubusercontent.com/Saisi/FacebookBasketballCheaterBot/master/media/gamescreen.png" width="400" height="300">
 3. I hardcoded the bot to locate BlueStacks at window position (-350,0). To position the window there, run the included **positioner.scpt**. <sub>If you want to change the default coordinates go to **basketbot.py** and change *window_x* and *window_y*. </sub>
 4.  Now ensure, there are no windows obscuring any part of the BlueStacks App Player
 5. chmod +x *basketbot.py dragger.py*
