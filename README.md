@@ -7,6 +7,7 @@ A bot that automatically plays(*cough..cheats. at.. cough*) Facebook's messenger
 Setup
 -------------
 1. OS X <sub>(Sorry Windows users. The code should be trivial to port)</sub>
+		> **Note:**
 		>- NOTE: If you have a retina MacBook, you have to run the bot in a non-retina resolution i.e: 1440x900 and the likes. I could have modified the code to support Retina, but I have a thesis to defend. If that's too much of a hassle, just run it in a VM mate
 		
 2. Install **pyscreenshot** and **Pillow** python modules
