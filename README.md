@@ -1,13 +1,13 @@
 BasketBot 
 ===================
-This is a bot that automatically plays(*cough..cheats. at.. cough*) Facebook's messenger basketball. I wish I could say I was doing some cool Machine Learning, but no this is pure pixel tracking and Euclidean geometry. I wrote this because I was bored and I was procrastinating on my thesis so the code is sloppy and rushed. But it works! Highest recorded score so far is **70**. The bot could be improved to hit **99** but I have some real life stuff to handle so I leave that to you mate. Let's do some  :basketball:
+A bot that automatically plays(*cough..cheats. at.. cough*) Facebook's messenger basketball. Wish this was some cool Machine Learning? Nope, this is pure pixel tracking and Euclidean geometry. I wrote this because I was bored and procrastinating on my thesis; so the code is sloppy and rushed. But it works! Highest recorded score so far is **70**. The bot could be improved to hit **99** but I have some real life stuff to handle so I leave that to you mate. Let's play some :basketball: and keep it :100:
 
 
 ----------
 Setup
 -------------
-1. OS X <sub>(Sorry Windows users, however, the code should be trivial to port)</sub>
-		i.	NOTEIf you have a retina MacBook, you have to run the bot in a non-retina resolution i.e: 1440x900 and the likes. I could have modified the code to support Retina, but I have a thesis to defend. If that's too much of a hassle, just run it in a VM mate
+1. OS X <sub>(Sorry Windows users. The code should be trivial to port)</sub>
+		i.	NOTE: If you have a retina MacBook, you have to run the bot in a non-retina resolution i.e: 1440x900 and the likes. I could have modified the code to support Retina, but I have a thesis to defend. If that's too much of a hassle, just run it in a VM mate
 		
 2. Install **pyscreenshot** and **PIL** python modules
 3. Install Bluestacks App player. Get it from http://www.bluestacks.com/download.html 
