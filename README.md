@@ -37,6 +37,9 @@ Setup
 > - The bot automatically restarts a new game. It is currently set to play a million games in a row.
 > - Cleaning up and comments are on my TODO list. Should mostly be self explanatory though
 
+**GIF**
+<img src="https://raw.githubusercontent.com/Saisi/FacebookBasketballCheaterBot/master/media/game.gif" width="400">
+
 #### <i class="icon-file"></i> License
 This code is [licensed](#license) under a **WTFPL** License
 The gist is: Do whatever you want with it mate
