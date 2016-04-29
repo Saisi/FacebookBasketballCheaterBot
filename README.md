@@ -1,7 +1,7 @@
 SentimentBot 
 ===================
 A bot that automatically plays Facebook's messenger basketball isn't cool. You know what's cool? A bot that 
-plays Facebook's messenger basketball and responds to crowd feedback. Positive words give it a great degree of confidence. No one staring at the screen will make it sad, and it'll play badly. Negative words will drown its confidence. A cool scenario is when you pit bot against bot and have teams cheering for either. Attention and affrimations improve its score.
+plays Facebook's messenger basketball and responds to crowd feedback. Positive words give it a great degree of confidence. No one staring at the screen will make it sad, and it'll play badly. Negative words will drown its confidence. A cool scenario is when you pit bot against bot and have teams cheering for either. Attention and affrimations improve its score. Environment matters. Upbeat music will make it more daring and confident in play. Screamo death metal will make it despondent and weak.
 Let's play some :basketball: and keep it :100:
 
 
