@@ -154,6 +154,6 @@ for i in range(r):
 
 
 
-mousedrag(x, y)
+#mousedrag(x, y)
 mouseclickup(x, y)
 sleep(.1)
